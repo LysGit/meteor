@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>lys1988_cool@me.com</string>
+	<key>artistId</key>
+	<integer>438883151</integer>
+	<key>artistName</key>
+	<string>Beijing Kingsoft Internet Security software Co.Ltd</string>
+	<key>bundleDisplayName</key>
+	<string>天气预报</string>
+	<key>bundleVersion</key>
+	<string>1.5.17163.142</string>
+	<key>copyright</key>
+	<string>金山网络</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>genre</key>
+	<string>天气</string>
+	<key>genreId</key>
+	<integer>6001</integer>
+	<key>itemId</key>
+	<integer>646719781</integer>
+	<key>itemName</key>
+	<string>Weather forecast - 10 days, 36 hours forecast, air quality, PM2.5</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistArtistName</key>
+	<string>Beijing Kingsoft Internet Security software Co.Ltd</string>
+	<key>playlistName</key>
+	<string>Weather forecast - 10 days, 36 hours forecast, air quality, PM2.5</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2014-06-30T12:21:59Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string></string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2013-06-15T20:06:03Z</string>
+	<key>s</key>
+	<integer>143465</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a57.phobos.apple.com/us/r30/Purple4/v4/e6/6f/5f/e66f5f68-5455-dbbe-5861-a006e97c050e/icon.png</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>4</integer>
+		<integer>9</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.ijinshan.ksweather</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>83863247</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>15361124</integer>
+		<integer>15533328</integer>
+		<integer>15721271</integer>
+		<integer>15882856</integer>
+		<integer>40292731</integer>
+		<integer>83863247</integer>
+	</array>
+	<key>userName</key>
+	<string>耀生 罗</string>
+	<key>vendorId</key>
+	<integer>378918</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>

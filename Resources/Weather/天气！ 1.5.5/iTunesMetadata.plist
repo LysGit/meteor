@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>lys1988_cool@me.com</string>
+	<key>artistId</key>
+	<integer>281970157</integer>
+	<key>artistName</key>
+	<string>Yahoo</string>
+	<key>bundleDisplayName</key>
+	<string>Weather!</string>
+	<key>bundleShortVersionString</key>
+	<string>1.5.5</string>
+	<key>bundleVersion</key>
+	<string>33093</string>
+	<key>copyright</key>
+	<string>Copyright (C) 2013, Yahoo! Inc. All rights reserved.</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>genre</key>
+	<string>天气</string>
+	<key>genreId</key>
+	<integer>6001</integer>
+	<key>itemId</key>
+	<integer>628677149</integer>
+	<key>itemName</key>
+	<string>Yahoo Weather</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistArtistName</key>
+	<string>Yahoo</string>
+	<key>playlistName</key>
+	<string>Yahoo Weather</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2014-06-30T12:21:36Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string></string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2013-04-18T11:23:40Z</string>
+	<key>s</key>
+	<integer>143465</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1757.phobos.apple.com/us/r30/Purple/v4/9f/74/7d/9f747d32-d560-1232-3823-52b83c0ff7a9/yweather_57.png</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>9</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.yahoo.weather</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>582212671</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>14940748</integer>
+		<integer>15066809</integer>
+		<integer>15156131</integer>
+		<integer>15450652</integer>
+		<integer>15713431</integer>
+		<integer>16053042</integer>
+		<integer>21752645</integer>
+		<integer>84242644</integer>
+		<integer>109402650</integer>
+		<integer>224702631</integer>
+		<integer>254462815</integer>
+		<integer>386722632</integer>
+		<integer>542682645</integer>
+		<integer>566723361</integer>
+		<integer>582212671</integer>
+	</array>
+	<key>userName</key>
+	<string>耀生 罗</string>
+	<key>vendorId</key>
+	<integer>9029</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
